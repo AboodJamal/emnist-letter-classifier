@@ -121,7 +121,7 @@ This project proves that **a well-tuned shallow network** can effectively handle
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/EMNIST-Letters-Recognition-NN.git
-cd EMNIST-Letters-Recognition-NN
+git clone https://github.com/your-username/emnist-letter-classifier.git
+cd emnist-letter-classifier
 
 # Run the .ipynb file
